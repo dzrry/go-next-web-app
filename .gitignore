@@ -1,0 +1,7 @@
+/server/db.json
+/server/main
+
+/client/node_modules/
+/client/.next/
+
+/.idea
