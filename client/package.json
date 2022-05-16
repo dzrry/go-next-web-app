@@ -12,7 +12,7 @@
     "@material-ui/icons": "^4.9.1",
     "@primer/octicons-react": "^9.4.0",
     "@zeit/next-css": "^1.0.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "bootstrap": "^4.4.1",
     "classnames": "^2.2.6",
     "dotenv": "^8.2.0",
